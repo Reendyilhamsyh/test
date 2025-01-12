@@ -10,3 +10,5 @@ wdkokoadkow
 #code eksperimen dari branch
 update 1 untuk branch
 code eksperimen pada hari senin
+
+nyoba konflik
