@@ -2,3 +2,6 @@ dan terwujudlah
 
 #perubahan fetch baru pull
 wakdoakwd
+
+#perubahan fetch baru push
+wdkokoadkow
