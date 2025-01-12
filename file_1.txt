@@ -12,3 +12,4 @@ update 1 untuk branch
 code eksperimen pada hari senin
 
 nyoba konflik
+nyoba konflik dari branch
