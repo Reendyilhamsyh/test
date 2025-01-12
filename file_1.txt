@@ -9,5 +9,4 @@ wdkokoadkow
 #code dari main
 #code eksperimen dari branch
 update 1 untuk branch
-
-pada hari berikutnya
+code eksperimen pada hari senin
